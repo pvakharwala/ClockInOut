@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ClockInOut.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="id" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">11012,11034,11057,11048,11073,11076,11089,11002,110034</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
